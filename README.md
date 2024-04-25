@@ -11,6 +11,7 @@ Dataset Details:
 - Format: Images in JPG format with dimensions varying across samples.
 - Labels: Each image is associated with a label indicating the character it represents.
 - Character Classes: The dataset covers English alphabets (A-Z, a-z), digits (0-9), and special characters.
+  
 This dataset provides a diverse set of handwritten characters, enabling the model to learn and recognize a wide range of writing styles and variations.
 
 # Usage
